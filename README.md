@@ -185,6 +185,6 @@ LIMIT 10;
 ```
 # What I learned
 
--**Basic and Complex Query Crafting**: joining tables, subquries, and CTEs
--**Data Aggregation**: GROUP BY, COUNT AVG etc
--**Planning and Gradual Query Writing**: first thinking about how I want my output to look, then planning my steps, before diving into the actual code writing
+- **Basic and Complex Query Crafting**: joining tables, subquries, and CTEs
+- **Data Aggregation**: GROUP BY, COUNT AVG etc
+- **Planning and Gradual Query Writing**: first thinking about how I want my output to look, then planning my steps, before diving into the actual code writing
